@@ -8,3 +8,7 @@
     line-height: 200px;
 }
 
+.nested{
+    display: flex;
+    flex-grow: 1;
+}
