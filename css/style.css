@@ -11,4 +11,13 @@
 .nested{
     display: flex;
     flex-grow: 1;
+    align-content: center;
+    padding: 5px;
 }
+
+[class*="col"] > .row > [class*="col"] {
+    background-color: #F07F80;
+    height: 100%;
+    border: 1px solid white;
+}
+
