@@ -1,0 +1,9 @@
+[class^="col-"] {
+    background-color: lightpink;
+    border: 1px solid black;
+    height: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    line-height: 200px;
+}
